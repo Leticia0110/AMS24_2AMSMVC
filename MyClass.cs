@@ -1,4 +1,6 @@
 namespace AMS24_MyClass.Models
+/// <summary>description</summary>
+/// <author>Leticia</author>
 {
     public class Client
     {
